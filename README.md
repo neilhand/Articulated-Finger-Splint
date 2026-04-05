@@ -113,7 +113,7 @@ For this project the mesh was created by creating a plaster cast of the finger a
 - **V4**: Resin, SLS, binderjet printing or similer technology. This can be done at home or through a service provider such as PCBWay in the case of the Nylon version that has been used extensively.
 - **V5**: FDM printer with a preffered nozzle diameter of 0.4mm. 
 
-### Materials
+#### Materials
 | Material | Notes |
 |----------|-------|
 | **PLA** | Rigid; easy to print but brittle |
