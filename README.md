@@ -2,7 +2,7 @@
 
 > A 3D-printable articulated finger splint designed to support and protect injured fingers while preserving range of motion.
 
-This repository contains a collection of files to support the paper "3D Printed Hinged Splint For Instability of PIP" 
+This repository contains a collection of files to support the paper "3D Printed Hinged Splint For Instability of PIP" authored by Robert White and Neil Hand.
 
 These files are being made available to allow to allow others with better CAD capabilities (this was created by a hand therapist and an electrical enginneer with limitied CAD experience) to itterate on the design, with the ultimate aim that they can create a paratamtizable design that can be easily customized for individual patients.
 
