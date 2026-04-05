@@ -4,7 +4,7 @@
 
 This repository contains a collection of files to support the paper "3D Printed Hinged Splint For Instability of PIP" 
 
-These files are being made available to allow to allow others with better CAD capabilities (this was created by a hand therapist and an electrical enginner with limitied CAD experience) to itterate on the design, with the ultimate aim that they can create a paratamtizable design that can be easily customized for individual patients.
+These files are being made available to allow to allow others with better CAD capabilities (this was created by a hand therapist and an electrical enginneer with limitied CAD experience) to itterate on the design, with the ultimate aim that they can create a paratamtizable design that can be easily customized for individual patients.
 
 These files are being made available under the CC BY 4.0 license, to allow you to freely develop and modify the design for personal or commercial use, provided you attribute the original work and authors. 
 
