@@ -8,7 +8,7 @@ These files are being made available to allow to allow others with better CAD ca
 
 These files are being made available under the CC BY 4.0 license, to allow you to freely develop and modify the design for personal or commercial use, provided you attribute the original work and authors. 
 
-![V4 Final - Print in Place](V4%20-%20Final%20-%20Print%20in%20place%20-%20Resin.png)
+![V4 - Print in Place](V4%20-%20Print%20in%20place%20-%20Resin.png)
 
 ---
 
@@ -52,11 +52,11 @@ The project evolved through six iterations. Each version addressed limitations o
 | V3 | Enclosed Hinge | Hinge moved inside the body for comfoty and durability |
 | V4 | Print in Place | Single-piece articulated design |
 | V5 | Multipart Print | Multi-part shell with plates |
-| V5 | Multipart with ring | Multi-part with front ring |
+| V6 | Multipart with ring | Multi-part with front ring |
 
 
 ### V6 – Multipart Print with ring to simplify usage and attachment
-![V6](V6%20-%20Multpart%20-%20with%20ring.png)
+![V6](V6%20-%20Multpart%20with%20ring.png)
 
 ---
 
