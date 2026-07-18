@@ -8,8 +8,8 @@ These files are being made available to allow to allow others with better CAD ca
 
 These files are being made available under the CC BY 4.0 license, to allow you to freely develop and modify the design for personal or commercial use, provided you attribute the original work and authors. 
 
-![V4 - Print in Place for SLA/SLS](V4%20-%20Print%20in%20place%20-%20Resin.png)
 ![RECOMMENDED: V6 - Multipart for FDM](V6%20-%20Multipart%20with%20ring.png)
+![V4 - Print in Place for SLA/SLS](V4%20-%20Print%20in%20place%20-%20Resin.png)
 
 
 ---
