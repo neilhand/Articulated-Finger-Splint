@@ -73,7 +73,9 @@ Articulated-Finger-Splint/
 ├── V3 - Enclosed Hinge.*           # Enclosed hinge iteration
 ├── V4 - Print in place - Resin.*   # Single-piece print design for SLA/SLA
 ├── V5 - Multpart Print - FDM.*     # Multi-part print for FDM
-├── V6 - Multipart with ring.*      $ Simular to V5 but with a ring to simplify attachment
+├── V6 - Multipart with ring.*      # Simular to V5 but with a ring to simplify attachment
+│
+├── Buddy Strap.*                   # A 3D printed buddy strap in flexible filiment based of finger measurements   
 │
 ├── FingerMesh.stl                  # Reference mesh of a finger for fitting
 │
