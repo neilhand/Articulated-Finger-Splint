@@ -8,7 +8,7 @@ These files are being made available to allow to allow others with better CAD ca
 
 These files are being made available under the CC BY 4.0 license, to allow you to freely develop and modify the design for personal or commercial use, provided you attribute the original work and authors. 
 
-![V4 Final - Print in Place](V4%20-%20Final%20-%20Print%20in%20place%20v3.png)
+![V4 Final - Print in Place](V4%20-%20Final%20-%20Print%20in%20place%20-%20Resin.png)
 
 ---
 
@@ -50,14 +50,13 @@ The project evolved through six iterations. Each version addressed limitations o
 | V1 | Initial Prototype | Two-ring design with a basic external hinge |
 | V2 | Fitted to Finger | Anatomically contoured inner surface based on finger mesh scan added |
 | V3 | Enclosed Hinge | Hinge moved inside the body for comfoty and durability |
-| V4 | Final – Print in Place | Single-piece articulated design |
-| V5 | Final – Multipart Print | Multi-part shell with plates |
+| V4 | Print in Place | Single-piece articulated design |
+| V5 | Multipart Print | Multi-part shell with plates |
+| V5 | Multipart with ring | Multi-part with front ring |
 
-### V4 – Print in Place
-![V4](V4%20-%20Final%20-%20Print%20in%20place%20v3.png)
 
-### V5 – Multipart Print
-![V5](V5%20-%20Final%20-%20Multpart%20Print%20v8.png)
+### V6 – Multipart Print with ring to simplify usage and attachment
+![V6](V6%20-%20Multpart%20-%20with%20ring.png)
 
 ---
 
@@ -70,8 +69,9 @@ Articulated-Finger-Splint/
 ├── V1 - Initial Prototype.*        # First full splint prototype
 ├── V2 - Fitted to Finger.*         # Anatomical fit iteration
 ├── V3 - Enclosed Hinge.*           # Enclosed hinge iteration
-├── V4 - Final - Print in place.*   # ✅ Recommended: single-piece print
-├── V5 - Final - Multpart Print.*   # ✅ Recommended: multi-part print
+├── V4 - Print in place - Resin.*   # Single-piece print design for SLA/SLA
+├── V5 - Multpart Print - FDM.*     # Multi-part print for FDM
+├── V6 - Multipart with ring.*      $ Simular to V5 but with a ring to simplify attachment
 │
 ├── FingerMesh.stl                  # Reference mesh of a finger for fitting
 │
@@ -111,7 +111,7 @@ For this project the mesh was created by creating a plaster cast of the finger a
 
 ### Hardware
 - **V4**: Resin, SLS, binderjet printing or similer technology. This can be done at home or through a service provider such as PCBWay in the case of the Nylon version that has been used extensively.
-- **V5**: FDM printer with a preffered nozzle diameter of 0.4mm. 
+- **V6**: FDM printer with a preffered nozzle diameter of 0.4mm. 
 
 #### Materials
 | Material | Notes |
@@ -135,19 +135,23 @@ The choice of resin seems to be very important and the more opaque the resin the
 The resin used for the prototyping was a standard gray 8K photopolymer resin. This resulted in a good part and high success rate, but there wer concerns about the sudden snap of the parts under stress. The Nylon printed parts have shown to be more durable and less prone to sudden failure as the deform rather than snap.
 
 
-### V5 – Multipart Print
+### V6 – Multipart Print
 > This was designed to be printed on a consumer grade FDM printer.
-The hing parts are printed flat to ensure maximum strength and minimize warping. The front and back finger parts were printed at a 45 degree angle to decrease the chance of breakage across a layer line. The supports were placed on the back of the parts to ensure good surface finish where the splint contacts the skin.
+The hing parts are printed flat to ensure maximum strength and minimize warping. Minimal supports were used (painted on) and orientation is shown in the image below. 
+
+![V6](V6%20-%20Print%20and%20Support%20layout.png)
 
 The hinges are held in place using a small piece of 1.75mm PLA filament that is inserted into the hinge and then the end melted smooth with the surface using a soldering iron or similar tool.
 
 This multipart design was created to allow for easier printing and assembly especially in a clinical environment. The parts are small and can be printed quickly, it is also possible a mixed collection of part can be mixed and matched to create a close enough fit for many without neededing special design and finger scanning
 
+Things to note on the V6 version. The hinges are slightly different sizes to have the shorter on the left hand side to provide preloading of the 
+
 ---
 
 ## Customization
 
-There is no customization available at this time and the `.f3d` source files are provided to show how the parts were designed and allow for modification and evolution hopefully towards a fully parametic design.
+There is no customization available at this time and the `.f3d` source files are provided to show how the parts were designed and allow for modification and evolution hopefully towards a fully parametic design. Unfortunaly due to poor file management some of the history and timeline data is not available.
 
 ---
 
