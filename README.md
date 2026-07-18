@@ -56,7 +56,7 @@ The project evolved through six iterations. Each version addressed limitations o
 
 
 ### V6 – Multipart Print with ring to simplify usage and attachment
-![V6](V6%20-%20Multpart%20with%20ring.png)
+![V6](V6%20-%20Multipart%20with%20ring.png)
 
 ---
 
