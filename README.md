@@ -8,7 +8,9 @@ These files are being made available to allow to allow others with better CAD ca
 
 These files are being made available under the CC BY 4.0 license, to allow you to freely develop and modify the design for personal or commercial use, provided you attribute the original work and authors. 
 
-![V4 - Print in Place](V4%20-%20Print%20in%20place%20-%20Resin.png)
+![V4 - Print in Place for SLA/SLS](V4%20-%20Print%20in%20place%20-%20Resin.png)
+![RECOMMENDED: V6 - Multipart for FDM](V6%20-%20Multipart%20with%20ring.png)
+
 
 ---
 
@@ -55,7 +57,7 @@ The project evolved through six iterations. Each version addressed limitations o
 | V6 | Multipart with ring | Multi-part with front ring |
 
 
-### V6 – Multipart Print with ring to simplify usage and attachment
+### RECOMMENDED: V6 – Multipart Print with ring to simplify usage and attachment
 ![V6](V6%20-%20Multipart%20with%20ring.png)
 
 ---
